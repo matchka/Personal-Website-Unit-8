@@ -1,0 +1,45 @@
+
+        html { 
+            background-color: skyblue;
+    
+        }
+        body {
+            background-color: #FF9500;
+            width: 600px;
+            margin: 0 auto;
+            border: 5 px solid black; 
+            padding: 0 20px 20px 20px;
+        }
+        p, li{
+            font-size:24px;
+            line-height:1.5; 
+            letter-spacing:1px;
+        }
+        h1{
+            font-size: 5em; 
+            text-align: center;
+            padding: 5px;
+            border: 2px dotted red; 
+            margin: 10px 0;
+
+        }
+        .bold{
+            font-weight:bold;
+
+        }
+        .italic{
+            font-style:italic;
+        }
+        li.bold{
+            font-style: italic;
+        }
+        p.bold{
+            text-decoration:underline;
+        }
+        #subjectintro {
+            color: red ;
+        }
+        p.italic{
+            text-decoration:line-through;
+            color: teal; 
+        }
