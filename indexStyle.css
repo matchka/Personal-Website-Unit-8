@@ -1,0 +1,11 @@
+html {
+    background-color: #cfcfc4;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    }
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
