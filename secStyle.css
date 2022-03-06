@@ -1,0 +1,31 @@
+div.animelist{ 
+    margin: 20px;
+    padding: 10px;
+    background-color:olive;
+    border: 3px solid black;
+}
+
+div.charlist{ 
+    margin: 20px; 
+    padding: 10px; 
+    background-color: #C4A484;
+    border: 3px solid black; 
+}
+
+div.introduction{
+    margin: 20px; 
+    padding: 10px; 
+    background-color: #C4A484;
+    border: 3px solid black;
+}
+
+div.hyperlinks{ 
+    margin: 20px; 
+    padding: 10px; 
+    background-color: olive;
+    border: 3px solid black;
+}
+
+h1{ 
+    font-family: 'Hubballi', cursive;
+}
